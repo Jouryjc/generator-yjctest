@@ -1,0 +1,2 @@
+# generator-yjctest
+learn yeoman
